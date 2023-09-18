@@ -1,2 +1,2 @@
-# AnticipatingHealthOutcomesInEquines
+# Anticipating Health Outcomes in Equines
  
