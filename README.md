@@ -6,6 +6,7 @@ Equine health is crucial for ensuring the well-being of these magnificent creatu
 
 ## Dataset
 The dataset used for this analysis is avaible through Kaggle Competition https://www.kaggle.com/competitions/playground-series-s3e22
+
 It contains various features related to equine health, such as surgery, age, rectal temperature, pulse, and more.
 
 ### Sample of the Dataset
