@@ -18,3 +18,19 @@ It contains various features related to equine health, such as surgery, age, rec
 | 1237  |   yes   |  adult  |     528178      |     37.7    |  66.0 |       12.0       |         cool        |      normal      |  bright_red     |     less_3_sec
 | 1238  |    no   |  adult  |     534784      |     37.1    |  88.0 |       20.0       |         cool        |     reduced      | pale_cyanotic   |     less_3_sec
 | 1239  |   yes   |  adult  |     529840      |     38.3    |  50.0 |       12.0       |         None        |      normal      |  bright_pink    |     less_3_sec
+
+## Visualizations
+
+### Histograms of Numerical Features
+
+
+### Stacked Bar Chart: Age, Surgery, and Outcome
+
+
+### Violin Plots: Health Outcomes vs. Numberical Features
+
+
+### Feature Importance
+
+
+## Conclution
